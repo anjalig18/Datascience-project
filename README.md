@@ -37,8 +37,6 @@ To get a local copy up and running, follow these steps:
 
 ## Usage
 
-[Provide instructions and examples on how to use the project.]
-
 ## Run in Google Colab or Jupyter Notebook
 
 You can run this project in Google Colab or Jupyter Notebook by following these steps:
